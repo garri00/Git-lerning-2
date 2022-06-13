@@ -1,1 +1,2 @@
 Bananas = 2
+Bonanas = 20
